@@ -9,7 +9,13 @@
 .font-secondary {
     font-family: 'Pacifico', cursive;
 }
-
+.phone-link {
+      text-decoration: none;
+      color:var(--primary);
+      font-weight: bold;
+      font-size: 18px;
+      cursor: pointer;
+    }
 h1,
 h2,
 .font-weight-bold {
